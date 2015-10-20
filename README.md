@@ -5,8 +5,10 @@ Home Health Care system
 
 Application to record patient's information.
 
-jQuery EasyUI
+jQuery EasyUI - http://www.jeasyui.com/index.php
 
-MySQL
+MySQL 
 
-PHP
+PHP 
+
+FPDF - http://www.fpdf.org/
