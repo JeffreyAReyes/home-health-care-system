@@ -5,5 +5,8 @@ Home Health Care system
 
 Application to record patient's information.
 
-VB.Net
+jQuery EasyUI
+
 MySQL
+
+PHP
